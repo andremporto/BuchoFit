@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0E360203-2751-4D70-BE68-134A8B12DF7A</key>
+		<key>28A04136-ECDB-46DA-8411-2680B6102FA7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0E360203-2751-4D70-BE68-134A8B12DF7A.xcactivitylog</string>
+			<string>28A04136-ECDB-46DA-8411-2680B6102FA7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -24,17 +24,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hbmRyZXBvcnRvXC9Eb2N1bWVudHNcL0RFVkVMT1BFUlwvQnVjaG8tRml0XC9CdWNob0ZpdC54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>709138076.67987502</real>
+			<real>709138752.68304598</real>
 			<key>timeStoppedRecording</key>
-			<real>709138082.38738</real>
+			<real>63113904000</real>
 			<key>title</key>
 			<string>Build BuchoFit</string>
 			<key>uniqueIdentifier</key>
-			<string>0E360203-2751-4D70-BE68-134A8B12DF7A</string>
+			<string>28A04136-ECDB-46DA-8411-2680B6102FA7</string>
 		</dict>
-		<key>78068E10-73FA-4A8E-A767-1FA0D7F61CB2</key>
+		<key>42086845-5EAC-47C9-AB2A-33E629E5B327</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +43,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>78068E10-73FA-4A8E-A767-1FA0D7F61CB2.xcactivitylog</string>
+			<string>42086845-5EAC-47C9-AB2A-33E629E5B327.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2FuZHJlcG9ydG9cL0RvY3VtZW50c1wvREVWRUxPUEVSXC9CdWNoby1GaXRcL0J1Y2hvRml0Lnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiQUQwQjlGNzUyMzBENjE4MDAwNjVFRkQ5In0=</string>
+			<key>timeStartedRecording</key>
+			<real>709138752.68304598</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build BuchoFit</string>
+			<key>uniqueIdentifier</key>
+			<string>42086845-5EAC-47C9-AB2A-33E629E5B327</string>
+		</dict>
+		<key>5A997A1B-160F-43D6-8161-E86C7574246E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A997A1B-160F-43D6-8161-E86C7574246E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -60,9 +88,9 @@
 			<key>title</key>
 			<string>Build BuchoFit</string>
 			<key>uniqueIdentifier</key>
-			<string>78068E10-73FA-4A8E-A767-1FA0D7F61CB2</string>
+			<string>5A997A1B-160F-43D6-8161-E86C7574246E</string>
 		</dict>
-		<key>7E3C2C2E-B9D0-4E05-B424-17268E953218</key>
+		<key>66E0DCCB-E89E-45B1-9BAD-EEE0E08326E8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -71,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7E3C2C2E-B9D0-4E05-B424-17268E953218.xcactivitylog</string>
+			<string>66E0DCCB-E89E-45B1-9BAD-EEE0E08326E8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -84,11 +112,11 @@
 			<key>timeStartedRecording</key>
 			<real>709138076.67987502</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>709138082.38738</real>
 			<key>title</key>
 			<string>Build BuchoFit</string>
 			<key>uniqueIdentifier</key>
-			<string>7E3C2C2E-B9D0-4E05-B424-17268E953218</string>
+			<string>66E0DCCB-E89E-45B1-9BAD-EEE0E08326E8</string>
 		</dict>
 		<key>CF83E550-8894-4670-90D2-235D6CABFDB5</key>
 		<dict>
@@ -117,6 +145,62 @@
 			<string>Build BuchoFit</string>
 			<key>uniqueIdentifier</key>
 			<string>CF83E550-8894-4670-90D2-235D6CABFDB5</string>
+		</dict>
+		<key>D4999793-FC11-40FB-9249-19B88DE38E5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4999793-FC11-40FB-9249-19B88DE38E5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>709138752.68304598</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build BuchoFit</string>
+			<key>uniqueIdentifier</key>
+			<string>D4999793-FC11-40FB-9249-19B88DE38E5E</string>
+		</dict>
+		<key>E9BBE95E-56C8-4DC4-B2F1-70D12E651AB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9BBE95E-56C8-4DC4-B2F1-70D12E651AB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>709138076.67987502</real>
+			<key>timeStoppedRecording</key>
+			<real>709138082.38738</real>
+			<key>title</key>
+			<string>Build BuchoFit</string>
+			<key>uniqueIdentifier</key>
+			<string>E9BBE95E-56C8-4DC4-B2F1-70D12E651AB3</string>
 		</dict>
 	</dict>
 </dict>
