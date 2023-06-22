@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  BuchoFit - BMI Calculator
 
 ## Our Goal
