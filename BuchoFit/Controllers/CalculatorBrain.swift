@@ -1,10 +1,3 @@
-//
-//  CalculatorBrain.swift
-//  BMI Calculator
-//
-//  Created by André Porto on 13/06/23.
-//
-
 import UIKit
 
 struct CalculatorBrain {

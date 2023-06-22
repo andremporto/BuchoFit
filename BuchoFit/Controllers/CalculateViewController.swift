@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  IMC Focus
-//
-//
-
 import UIKit
 
 class CalculateViewController: UIViewController {
