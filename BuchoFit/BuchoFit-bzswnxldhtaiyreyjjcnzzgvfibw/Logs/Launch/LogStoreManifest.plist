@@ -6,6 +6,51 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>5D5F8750-C03C-4EDB-95F0-FC1B9F8F2A0E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>578E1CEF-84C5-4FAC-9DED-ABCBFC794E62</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-BuchoFit-2023.06.27_15-02-54--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BuchoFit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BuchoFit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BuchoFit</string>
+			<key>timeStartedRecording</key>
+			<real>709581774.93576097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run BuchoFit</string>
+			<key>uniqueIdentifier</key>
+			<string>5D5F8750-C03C-4EDB-95F0-FC1B9F8F2A0E</string>
+		</dict>
 		<key>5F781B7D-D561-4EAA-98DF-3BF1E86A6720</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
